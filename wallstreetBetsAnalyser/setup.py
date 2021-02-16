@@ -16,8 +16,8 @@ classifiers = [
  
 setup(
   name='wallstreetBetsAnalyser',
-  version='0.1.0',
-  description='A tool for extracting post from the wallstreetbets reddit group and running them through a sentiment analyser (vadar).',
+  version='0.1.1',
+  description='A tool for extracting post from the wallstreetbets reddit group and running them through a sentiment analyser (vader).',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='https://github.com/squeakycheese75/wallstreetbets-sentiment-analyser',  # the URL of your package's home page e.g. github link
   author='Jamie Wooltorton',

@@ -1,4 +1,4 @@
-A package for extracting posts from reddit.com and run them through a sentiment analyser (vadar).
+A package for extracting posts from reddit.com and run them through a sentiment analyser (vader).
 
 Usage:
 
