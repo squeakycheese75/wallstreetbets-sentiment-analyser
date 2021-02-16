@@ -22,7 +22,7 @@ make requirements
 
 ## Installing the module
 
-Run ```python3 -m pip install wallstreeBetsAnalyser```
+Run ```python3 -m pip install wallstreetBetsAnalyser```
 
 
 ## Example usage

@@ -1,2 +1,2 @@
 pyEX~=0.3.0
-# wallstreetbets-sentiment-analyser~=0.0.2
+wallstreetBetsAnalyser==0.1.0
