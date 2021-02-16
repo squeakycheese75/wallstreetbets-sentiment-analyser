@@ -18,11 +18,22 @@ make requirements
 
 ## Getting Started
 1. Set up your local environment using ```make create-local-env```
-2. In the created .env you will need to update with the reddit account details
+2. In the created .env you will need to add the reddit account details
 
 ## Installing the module
 
 Run ```python3 -m pip install wallstreeBetsAnalyser```
+
+
+## Example usage
+
+```python
+from wallstreetBetsAnalyser import run
+
+resval = run('wallstreetbets', 100)
+print(resval)
+```
+
 
 ## Disclaimer
 

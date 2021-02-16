@@ -1,0 +1,2 @@
+vaderSentiment~=3.3.2
+praw~=7.1.4
