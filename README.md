@@ -34,4 +34,4 @@ print(resval)
 
 ## Disclaimer
 
-This project is not financial advise.
+This project is not financial advice. Please be aware of Reddit API limits.
