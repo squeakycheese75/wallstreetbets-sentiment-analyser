@@ -1,2 +1,1 @@
-pyEX~=0.3.0
 wallstreetBetsAnalyser==0.1.1
